@@ -20,7 +20,7 @@ Extension | Count
 .cs       |   860
 .ino      |   272
 
-Creating another text file in the same directory will create a new .txt file named "file_analysis_1...._2..._3..."... and so on...
+Doing another scan in the same directory will create a new .txt file named "file_analysis_1...._2..._3..."... and so on...
 
 This is comepletely open source, use any text editor to check the base code and feel free to use anyway you like.
 GG!
